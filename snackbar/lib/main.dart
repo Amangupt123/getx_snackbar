@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: "snackbar",
+      title: "snackbdfgdfg",
       home: MyWidget(),
       // home: Scaffold(
       //   appBar: AppBar(centerTitle: true, title: Text("Snackbar")),
